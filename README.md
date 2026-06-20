@@ -18,3 +18,18 @@ This Power BI dashboard analyzes NCRB data from 2020–2024.
 - Victim age group analysis
 - Police chargesheeting efficiency
 - Court conviction trends
+
+## Dashboard Preview
+
+### Home Dashboard
+![Home](Home.png)
+
+### Victim Analysis
+![Victim](Victim.png)
+
+### Police Dashboard
+![Police](Police.png)
+
+### Court Dashboard
+![Court](Court.png)
+
